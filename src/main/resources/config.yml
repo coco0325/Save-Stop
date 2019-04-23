@@ -1,0 +1,7 @@
+## Save-Stop by coco0325
+
+# 在伺服器無人後多久後自動關閉伺服器(秒)
+delay: 60
+
+# 是否在伺服器剛開啟無人登入時就開始倒數計時
+direct-start: false

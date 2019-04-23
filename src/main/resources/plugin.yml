@@ -1,0 +1,6 @@
+name: SaveStop
+version: ${project.version}
+main: me.coco0325.SaveStop
+api-version: 1.13
+authors: [coco0325]
+description: A Spigot plugin shutdown the server when server is empty.
